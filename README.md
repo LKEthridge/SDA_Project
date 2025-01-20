@@ -6,4 +6,4 @@ This project analyzed fictional telecommunications company Megaline's Surf and U
 🧐 Statistical Data Analysis and Hypothesis Testing
 📊 Descriptive and Summary Statistics
 👩🏽‍💻 Data Preparation and Manipulation
-* This project uses pandas, numpy, matplotlib, pyplot, math, factorial, scipy, and stats.  It requires python 3.11.
+* This project uses pandas, numpy, pyplot, math, factorial, and stats.  It requires python 3.11.
